@@ -1,4 +1,4 @@
-Chatib.us Automation Bot
+AI Web Solicitor
 =========================
 
 Instructions:
